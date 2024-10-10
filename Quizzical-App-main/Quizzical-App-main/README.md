@@ -1,3 +1,14 @@
+
+# Project Description: 
+* Built a dynamic React JS-based quiz app to test the knowledge of the user based on the parameters chosen by them
+* Created options for the user to choose the type of quiz they want to give
+* Made API call for extracting questions and options for the user to attempt the quiz
+* Designed interactive UI to showcase the score, the correct and incorrect answers the user gave
+**Tech Stack**: React JS | HTML | CSS | JavaScript | Visual Studio Code | GitHub
+
+
+
+
 # To use the Deployment
 
 Available at https://inovatice-ideas.github.io/Quizzical-App/
